@@ -1,0 +1,9 @@
+.idea/*
+bin/*
+log/*
+logs/*
+_build/*
+*.tgz
+*.zip
+coverage.html
+tmp/*
